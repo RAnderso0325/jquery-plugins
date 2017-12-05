@@ -26,6 +26,14 @@ h1{
 #tabs{
 	margin-top: 100px;
 }
+.ui-tabs-anchor{
+	background-color: pink;
+	color: white;
+}
+.ui-accordion-header{
+	background-color: pink !important;
+	color: white !important;
+}
 .drop-img{
 	height: 300px;
 	width: auto;
