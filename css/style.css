@@ -1,0 +1,54 @@
+header{
+	height: 400px;
+	z-index: -1;
+}
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+h1{
+	text-align: center;
+	color: pink;
+	float: right;
+	margin-right: 30px;
+	margin-top: 50px;
+	background: url("http://www.pngall.com/wp-content/uploads/2016/09/Thought-Bubble-PNG-File.png");
+	background-size: cover;
+	padding-top: 120px;
+	padding-bottom: 120px;
+	padding-right: 105px;
+	padding-left: 100px;
+	z-index: 99;
+}
+.ui-accordion-content{
+	height: 300px !important;
+}
+#tabs{
+	margin-top: 100px;
+}
+.drop-img{
+	height: 300px;
+	width: auto;
+}
+#section1{
+	display: inline;
+	clear: both;
+}
+#section2{
+	height: 100px;
+}
+#img1{
+	width: 500px;
+	float: left;
+}
+#tab1text{
+	position: relative;
+	padding: 20px;
+	margin-left: 10px;
+	margin-top: 70px;
+	width: 200px;
+	float: left;
+}
+.text{
+	height: 200px !important;
+}
